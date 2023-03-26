@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<p align="cennter">
 [![Boynoiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=boynoiz&show_icons=true&theme=codeSTACKr)](https://github.com/boynoiz/github-readme-stats)
 
 <a href="https://app.daily.dev/boynoiz"><img src="https://raw.githubusercontent.com/boynoiz/boynoiz/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+</p>
 <!--
 **boynoiz/boynoiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
