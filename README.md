@@ -1,21 +1,15 @@
-### Hi there 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=boynoiz&label=Profile%20views&color=0e75b6&style=flat" alt="boynoiz" /></p>
+<h1 align="center">Hi there,  I'm Patt 👋</h1>
 
-[![Boynoiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=boynoiz&show_icons=true&theme=codeSTACKr)](https://github.com/boynoiz/github-readme-stats)
-  
+<p align="left">
+  <a href="https://github.com/boynoiz?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boynoiz&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="boynoiz" width="20%"/>
+  <a/>
+  <a href="https://github.com/boynoiz/github-readme-stats">
+     <img src="https://github-readme-stats.vercel.app/api?username=boynoiz&show_icons=true&theme=codeSTACKr" alt="boynoiz">
+   </a>
+</p> 
 <p align="cennter">
 <a href="https://app.daily.dev/boynoiz"><img src="https://raw.githubusercontent.com/boynoiz/boynoiz/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 </p>
-<!--
-**boynoiz/boynoiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
