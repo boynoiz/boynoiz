@@ -5,7 +5,7 @@
 </p>
 <p align="left">
   <a href="https://github.com/boynoiz?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boynoiz&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="boynoiz" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boynoiz&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="boynoiz" width="303"/>
   <a/>
   <a href="https://github.com/boynoiz/github-readme-stats">
      <img src="https://github-readme-stats.vercel.app/api?username=boynoiz&show_icons=true&theme=codeSTACKr" width="400" alt="boynoiz">
