@@ -10,6 +10,6 @@
    </a>
 </p> 
 <p align="cennter">
-<a href="https://app.daily.dev/boynoiz"><img src="https://raw.githubusercontent.com/boynoiz/boynoiz/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/boynoiz"><img src="https://raw.githubusercontent.com/boynoiz/boynoiz/main/devcard.svg" width="20%" alt="Patt's Dev Card"/></a>
 </p>
 
