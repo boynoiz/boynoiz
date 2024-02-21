@@ -5,10 +5,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/boynoiz?tab=repositories">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boynoiz&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="boynoiz" width="303"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boynoiz&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="boynoiz" width="303"/>
   <a/>
   <a href="https://github.com/boynoiz/github-readme-stats">
-     <img align="right" src="https://github-readme-stats.vercel.app/api?username=boynoiz&show_icons=true&theme=codeSTACKr" width="400" alt="boynoiz">
+     <img src="https://github-readme-stats.vercel.app/api?username=boynoiz&show_icons=true&theme=codeSTACKr" width="400" alt="boynoiz">
    </a>
 </p> 
 
