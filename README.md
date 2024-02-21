@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=boynoiz&label=Profile%20views&color=0e75b6&style=flat" alt="boynoiz" /></p>
 <h1 align="center">Hi there,  I'm Patt 👋</h1>
 <p align="cennter">
-<a href="https://app.daily.dev/boynoiz"><img src="https://raw.githubusercontent.com/boynoiz/boynoiz/main/devcard.svg" width="400" alt="Patt's Dev Card"/></a>
+<a href="https://app.daily.dev/boynoiz"><img src="https://api.daily.dev/devcards/v2/E9Mn8mUGFHy2YqTM2lx3f.png?r=ufr" width="356" alt="Pathompong Pechkongtong's Dev Card"/></a>
 </p>
 <p align="left">
   <a href="https://github.com/boynoiz?tab=repositories">
