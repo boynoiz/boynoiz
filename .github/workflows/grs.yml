@@ -1,4 +1,4 @@
-name: Update README cards
+name: StatCard
 
 on:
   schedule:
@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ".github"
 
 jobs:
   build:

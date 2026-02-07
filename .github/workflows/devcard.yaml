@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ".github"
   schedule:
     - cron: "0 0 * * *"
 
@@ -17,5 +19,6 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@3.2.1
         with:
+          type: wide
           user_id: ${{ secrets.DEVCARD_ID }}
           commit_filename: profile/devcard.png
